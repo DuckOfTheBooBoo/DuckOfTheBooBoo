@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuckOfTheBooBoo
-- 👀 I’m interested in Python, C++, etc
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 
 <!---
