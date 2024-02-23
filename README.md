@@ -28,7 +28,7 @@ A little bit about me, i live in Depok, West Java, Indonesia :indonesia:. Curren
 
 [<img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&color=black&">](https://www.instagram.com/ineednameee/)
 [<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&color=black&logoColor=blue">](https://www.linkedin.com/in/arajdian-altaf-a13a8a27a/)
-[<img src="https://img.shields.io/badge/arajdianaltaf123-blue?style=for-the-badge&logo=gmail&color=black">]( mailto:arajdianaltaf123@gmail.com)
+[<img src="https://img.shields.io/badge/Personal Email-blue?style=for-the-badge&logo=gmail&color=black">]( mailto:arajdianaltaf123@gmail.com)
 
 ## Stats
 ---
