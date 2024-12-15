@@ -3,7 +3,7 @@
 
 ## Overview
 ---
-A little bit about me, i live in Depok, West Java, Indonesia :indonesia:. Currently studying at [CEP-CCIT FTUI](https://ccit.eng.ui.ac.id/) taking 2 years Information Technology Professional Program. 
+A little bit about me, i live in Depok, West Java, Indonesia :indonesia:. Currently studying at [CEP-CCIT FTUI](https://ccit.eng.ui.ac.id/) enrolling in 2 years Information Technology Professional Program. 
 
 **Technology Used**
 
